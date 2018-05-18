@@ -21,5 +21,4 @@ public class E01_OuterClass {
 		System.out.println(i1);
 		System.out.println(i2);
 	}
-
 }
